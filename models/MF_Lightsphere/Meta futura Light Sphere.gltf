@@ -1,0 +1,128 @@
+{
+  "asset": {
+    "generator": "Modov11.2",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "sphere",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "indices": 1,
+          "mode": 4,
+          "material": 1,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Meta futura Light Sphere_data.bin",
+      "byteLength": 3488
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1092,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 1092
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1092,
+      "byteOffset": 1668
+    },
+    {
+      "buffer": 0,
+      "byteLength": 728,
+      "byteOffset": 2760
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 91,
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "bufferView": 1,
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 144
+    },
+    {
+      "bufferView": 2,
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 91
+    },
+    {
+      "bufferView": 3,
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 91
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      }
+    },
+    {
+      "name": "Light",
+      "emissiveFactor": [
+        0.7312231063842773,
+        0.666747510433197,
+        0.9620253443717957
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6,
+          0.6,
+          0.6,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      }
+    }
+  ]
+}

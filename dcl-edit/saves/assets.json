@@ -1,0 +1,24 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Meta futura Building",
+            "id": "8cdabfd4-1665-4e61-81f9-9f5080cf7f5d",
+            "gltfPath": "models/MF_Building/Meta futura Building.glb"
+        },
+        {
+            "name": "Meta Futura Only Type",
+            "id": "694d0ad7-496a-4c90-aaa0-b0b52ec84b12",
+            "gltfPath": "models/MF_Logo/Meta Futura Only Type.glb"
+        },
+        {
+            "name": "Meta futura Light Sphere",
+            "id": "9f63c51f-d29c-4e46-af8c-4a8f534a1a46",
+            "gltfPath": "models/MF_Lightsphere/Meta futura Light Sphere.glb"
+        },
+        {
+            "name": "MF Logo Object",
+            "id": "b6db8f47-c1d4-4c8c-965e-62dc4fa9d3f2",
+            "gltfPath": "models/MF_Logo_object/MF Logo Object.glb"
+        }
+    ]
+}

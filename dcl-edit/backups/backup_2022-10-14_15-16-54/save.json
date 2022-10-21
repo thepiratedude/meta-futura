@@ -1,0 +1,59 @@
+{
+    "entityNumberCounter": 8,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Meta futura Building",
+            "uniqueNumber": 5,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cdabfd4-1665-4e61-81f9-9f5080cf7f5d\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Meta Futura Only Type",
+            "uniqueNumber": 6,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.11773681640625,\"y\":7.030468940734863,\"z\":16.619441986083986},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.870960235595703,\"y\":2.870960235595703,\"z\":2.870960235595703}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"694d0ad7-496a-4c90-aaa0-b0b52ec84b12\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Meta futura Light Sphere",
+            "uniqueNumber": 7,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.170888900756836,\"y\":16.034635543823243,\"z\":5.562241077423096},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":5.771701335906982,\"y\":5.771701335906982,\"z\":5.771701335906982}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"9f63c51f-d29c-4e46-af8c-4a8f534a1a46\"}"
+                }
+            ]
+        }
+    ]
+}

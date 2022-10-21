@@ -1,0 +1,41 @@
+{
+    "entityNumberCounter": 7,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Meta futura Building",
+            "uniqueNumber": 5,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cdabfd4-1665-4e61-81f9-9f5080cf7f5d\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Meta Futura Only Type",
+            "uniqueNumber": 6,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.5,\"y\":7.503816604614258,\"z\":16.19855499267578},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"694d0ad7-496a-4c90-aaa0-b0b52ec84b12\"}"
+                }
+            ]
+        }
+    ]
+}
